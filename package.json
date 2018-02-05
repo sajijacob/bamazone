@@ -1,0 +1,28 @@
+{
+  "name": "bamazone",
+  "version": "1.0.0",
+  "description": "Bamazone similar to Amazone",
+  "main": "BamazoneCustomer.js",
+  "scripts": {
+    "test": "Want to buy on line?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajijacob/bamazone.git"
+  },
+  "keywords": [
+    "Bamazone",
+    "Home",
+    "work"
+  ],
+  "author": "Saji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajijacob/bamazone/issues"
+  },
+  "homepage": "https://github.com/sajijacob/bamazone#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
